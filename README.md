@@ -48,7 +48,7 @@ Gráfico **Revenue by Plan** mostra a distribuição de receita entre:
 ---
 
 ## 🧠 Como usar
-1. Abra `dashboard_xbox.xlsx`
+1. Abra `dashboard_xbox_desafio.xlsx`
 2. Vá até a aba **Dashboard**
 3. Use o filtro **Subscription Type** (Monthly/Quarterly/Annual)
 4. Os cards e gráficos atualizam automaticamente
@@ -58,7 +58,7 @@ Gráfico **Revenue by Plan** mostra a distribuição de receita entre:
 ## 🗂️ Estrutura do repositório
 .
 ├── base.xlsx
-├── dashboard_xbox.xlsx
+├── dashboard_xbox_desafio.xlsx
 ├── README.md
 └── images/
 └── dashboard.png
@@ -67,4 +67,5 @@ Gráfico **Revenue by Plan** mostra a distribuição de receita entre:
 ---
 
 ## 🖼️ Preview
+
 ![Dashboard Preview](images/dashboard.png)
